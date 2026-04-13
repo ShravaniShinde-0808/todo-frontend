@@ -1,18 +1,31 @@
-# 🚀 Full Stack Todo App
+# 🚀 PinkNotes - Full Stack Todo App
 
-A simple full-stack TODO application built using:
+A modern full stack Todo application built using **React JS + Flask + SQLite** with a clean UI and real-time task management features.
 
-## 🧠 Tech Stack
-- Frontend: React.js
-- Backend: Flask (Python)
-- Database: SQLite
+---
 
 ## ✨ Features
-- Add tasks
-- Delete tasks
-- Mark complete
-- Edit tasks
 
-## 📸 Preview
-![Todo App Screenshot](./C:\TODO-App.png)
+- ➕ Add new tasks
+- ❌ Delete tasks
+- ✅ Mark tasks as complete/incomplete (toggle)
+- 📊 Live stats (Total / Done / Pending)
+- 🎨 Beautiful modern UI (light pastel theme)
+- ⚡ Real-time updates with backend API
 
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- React JS
+- Axios
+- CSS3 (Custom Styling)
+
+**Backend:**
+- Python Flask
+- Flask CORS
+- Flask SQLAlchemy
+
+**Database:**
+- SQLite
